@@ -1,2 +1,2 @@
-# Practical-SC
+# scBOL
 Detailed tutorial will come soon!!!
