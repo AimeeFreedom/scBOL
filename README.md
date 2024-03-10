@@ -8,7 +8,7 @@ For scRNA-seq data, the input of scBOL model is the mixed reference data and tar
 
 Architecture
 -----
-![model](https://github.com/AimeeFreedom/scBOL/blob/main/Architecture/scBOL.eps)
+![model](https://github.com/AimeeFreedom/scBOL/blob/main/Architecture/scBOL.jpg)
 
 Requirement
 -----
