@@ -44,11 +44,15 @@ Please build the corresponding operation environment before running our codes.
 
 Quickstart
 -----
-We provide some explanatory descriptions for the codes, please see the specific code files. We supply different training codes for scRNA-seq data and spatial transcriptomic data, respectively. You can find them according to the code folders. Specifically, for scRNA-seq data, if you want to use scBOL in the intra-data annotation setting, you can focus on the "bol_train_single.py" script and run it in your command lines with corresponding optional parameters. Similarly, if you want to use our method in the inter-data setting, you can focus on the "bol_train_cross.py" script. For spatial transcriptomic data, the main model file is "bol_train.py" and the startup script is "bol_run.py". You can also pass in different optional parameters to run our model. For each scenario, you should put the data file in the correct data folders, and then you can obtain the final results of our model. 
+We provide some explanatory descriptions for the codes, please see the specific code files. We supply different training codes for scRNA-seq data and spatial transcriptomic data, respectively. You can find them according to the code folders. Specifically, for scRNA-seq data, if you want to use scBOL in the intra-data setting, you can focus on the "bol_train_single.py" script and run it in your command lines with corresponding optional parameters. Similarly, if you want to use our method in the inter-data setting, you can focus on the "bol_train_cross.py" script. For spatial transcriptomic data, the main model file is "bol_train.py" and the startup script is "bol_run.py". You can also pass in different optional parameters to run our model. For each scenario, you should put the data file in the correct data folders, and then you can obtain the final results of our model. 
 
 Data
 -----
 The scRNA-seq datasets we used can be downloaded in <a href="https://cblast.gao-lab.org/download">data1</a>, and the spatial transcriptomic datasets we tested can be found in <a href="https://crukci.shinyapps.io/SpatialMouseAtlas/">data2</a>. 
+
+Reference
+-----
+The specific details of our paper will come soon. Please consider citing it.
 
 Contributing
 -----
